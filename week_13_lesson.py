@@ -124,6 +124,7 @@ if first_number < second_number:
      log_to_db = True,
      error_message = "Second number greater than first",
      source_module = "My_math_module")
+print()
 
 
 
